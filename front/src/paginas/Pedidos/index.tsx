@@ -3,6 +3,7 @@ import axios from "axios";
 import "./Pedidos.css";
 import { useEffect, useState } from "react";
 import { IPedido } from "../../interfaces/IPedido";
+import http from "../../Http";
 
 const Pedidos = () => {
   const formatador = Intl.NumberFormat("pt-br", {
@@ -13,25 +14,15 @@ const Pedidos = () => {
   const [pedidos, setPedidos] = useState<IPedido[]>([]);
 
   useEffect(() => {
-    const token = sessionStorage.getItem("token");
-    axios
-      .get<IPedido[]>("http://localhost:8000/pedidos", {
-        headers: {
-          Authorization: `Bearer ${token}`,
-        },
-      })
+    http
+      .get<IPedido[]>("http://localhost:8000/pedidos")
       .then((resposta) => setPedidos(resposta.data))
       .catch((erro) => console.log(erro));
   }, []);
 
   const excluir = (pedido: IPedido) => {
-    const token = sessionStorage.getItem("token");
-    axios
-      .delete("http://localhost:8000/pedidos/" + pedido.id, {
-        headers: {
-          Authorization: `Bearer ${token}`,
-        },
-      })
+    http
+      .delete("http://localhost:8000/pedidos/" + pedido.id)
       .then(() => {
         setPedidos(pedidos.filter((p) => p.id !== pedido.id));
       })
