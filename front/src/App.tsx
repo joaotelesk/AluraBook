@@ -1,10 +1,10 @@
-import React from 'react';
-import { BrowserRouter } from 'react-router-dom';
-import './App.css';
-import Rotas from './rotas';
+import { BrowserRouter } from "react-router-dom";
+import "./App.css";
+import Rotas from "./rotas";
 
 function App() {
-  return (<BrowserRouter>
+  return (
+    <BrowserRouter>
       <Rotas />
     </BrowserRouter>
   );

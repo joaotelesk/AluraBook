@@ -7,10 +7,10 @@
       "total": 29.9
     },
     {
-      "id": 89019963,
-      "data": "2022-07-26",
-      "entrega": "2022-08-01",
-      "total": 58.8
+      "id": 89019042,
+      "data": "2022-02-1",
+      "entrega": "2022-03-13",
+      "total": 14.25
     }
   ],
   "livros": [
@@ -30,11 +30,7 @@
           "id": 1,
           "titulo": "E-book",
           "preco": 29.9,
-          "formatos": [
-            ".pdf",
-            ".pub",
-            ".mob"
-          ]
+          "formatos": [".pdf", ".pub", ".mob"]
         },
         {
           "id": 2,
@@ -45,11 +41,7 @@
           "id": 3,
           "titulo": "E-book + Impresso",
           "preco": 59.9,
-          "formatos": [
-            ".pdf",
-            ".pub",
-            ".mob"
-          ]
+          "formatos": [".pdf", ".pub", ".mob"]
         }
       ],
       "sobre": "Acessibilidade na Web consiste na eliminação de barreiras de acesso em páginas e aplicações digitais para que pessoas com deficiência tenham autonomia na rede. Na verdade, acessibilidade na web beneficia todas as pessoas. Em algum momento da vida todos podem precisar de acessibilidade, seja devido a uma limitação temporária ou permanente. Quando não levamos em consideração o acesso de pessoas com deficiência, estamos tirando o direito de uma pessoa de navegar, interagir ou consumir produtos e serviços na rede. Empatia é o fator principal para que as aplicações que desenvolvemos sejam inclusivas."
@@ -70,11 +62,7 @@
           "id": 1,
           "titulo": "E-book",
           "preco": 29.9,
-          "formatos": [
-            ".pdf",
-            ".pub",
-            ".mob"
-          ]
+          "formatos": [".pdf", ".pub", ".mob"]
         },
         {
           "id": 2,
@@ -85,11 +73,7 @@
           "id": 3,
           "titulo": "E-book + Impresso",
           "preco": 59.9,
-          "formatos": [
-            ".pdf",
-            ".pub",
-            ".mob"
-          ]
+          "formatos": [".pdf", ".pub", ".mob"]
         }
       ],
       "sobre": "No desenvolvimento de aplicações web e mobile, há disponível uma quantidade expressiva de linguagens, frameworks e ferramentas. Nessa imensidão, é comum se questionar ou até ter inseguranças sobre qual o melhor caminho para a construção neste segmento. O Angular é uma plataforma que facilita a construção de aplicativos, combinando templates, injeção de dependências, tudo integrado às melhores práticas de desenvolvimento."
@@ -110,11 +94,7 @@
           "id": 1,
           "titulo": "E-book",
           "preco": 29.9,
-          "formatos": [
-            ".pdf",
-            ".pub",
-            ".mob"
-          ]
+          "formatos": [".pdf", ".pub", ".mob"]
         },
         {
           "id": 2,
@@ -125,11 +105,7 @@
           "id": 3,
           "titulo": "E-book + Impresso",
           "preco": 59.9,
-          "formatos": [
-            ".pdf",
-            ".pub",
-            ".mob"
-          ]
+          "formatos": [".pdf", ".pub", ".mob"]
         }
       ],
       "sobre": "Com constantes evoluções, adições de novas funcionalidades e integrações com outros sistemas, os softwares têm se tornado cada vez mais complexos, mais difíceis de serem entendidos. Dessa forma, fazer com que os custos de manutenção desses softwares não ultrapassem o valor que eles entregam às companhias é um desafio para a arquiteta ou arquiteto de software."
@@ -150,11 +126,7 @@
           "id": 1,
           "titulo": "E-book",
           "preco": 29.9,
-          "formatos": [
-            ".pdf",
-            ".pub",
-            ".mob"
-          ]
+          "formatos": [".pdf", ".pub", ".mob"]
         },
         {
           "id": 2,
@@ -165,11 +137,7 @@
           "id": 3,
           "titulo": "E-book + Impresso",
           "preco": 59.9,
-          "formatos": [
-            ".pdf",
-            ".pub",
-            ".mob"
-          ]
+          "formatos": [".pdf", ".pub", ".mob"]
         }
       ],
       "sobre": "Fazer um site elegante nunca foi tão fácil, mesmo para quem não sabe escrever uma linha de CSS e, muito menos, entende como harmonizar cores, balancear elementos e tipografia. O Bootstrap é, resumidamente, um grande arquivo CSS com uma excelente documentação, que possui dezenas e dezenas de componentes prontos. No começo, foi criado pelo Twitter para servir como um guia de estilos em CSS da empresa; hoje, é a biblioteca mais famosa e utilizada no mundo."
@@ -190,11 +158,7 @@
           "id": 1,
           "titulo": "E-book",
           "preco": 29.9,
-          "formatos": [
-            ".pdf",
-            ".pub",
-            ".mob"
-          ]
+          "formatos": [".pdf", ".pub", ".mob"]
         },
         {
           "id": 2,
@@ -205,11 +169,7 @@
           "id": 3,
           "titulo": "E-book + Impresso",
           "preco": 59.9,
-          "formatos": [
-            ".pdf",
-            ".pub",
-            ".mob"
-          ]
+          "formatos": [".pdf", ".pub", ".mob"]
         }
       ],
       "sobre": "Talvez nenhuma outra linguagem tenha conseguido invadir o coletivo imaginário dos desenvolvedores como JavaScript fez. Em sua história fabular em busca de identidade, foi a única que conseguiu se enraizar nos navegadores, tornando-se uma linguagem em que todo desenvolvedor precisa ter algum nível de conhecimento."
@@ -230,11 +190,7 @@
           "id": 1,
           "titulo": "E-book",
           "preco": 29.9,
-          "formatos": [
-            ".pdf",
-            ".pub",
-            ".mob"
-          ]
+          "formatos": [".pdf", ".pub", ".mob"]
         },
         {
           "id": 2,
@@ -245,11 +201,7 @@
           "id": 3,
           "titulo": "E-book + Impresso",
           "preco": 59.9,
-          "formatos": [
-            ".pdf",
-            ".pub",
-            ".mob"
-          ]
+          "formatos": [".pdf", ".pub", ".mob"]
         }
       ],
       "sobre": "Quando aprendemos a trabalhar com CSS, frequentemente nos pegamos perdidos em detalhes fundamentais que não nos são explicados. Por vezes, alguns desses detalhes passam despercebidos até pelo desenvolvedor front-end mais experiente. Mas como ir além do conhecimento básico do CSS e preparar o caminho para explorar tópicos mais avançados?"
@@ -270,11 +222,7 @@
           "id": 1,
           "titulo": "E-book",
           "preco": 29.9,
-          "formatos": [
-            ".pdf",
-            ".pub",
-            ".mob"
-          ]
+          "formatos": [".pdf", ".pub", ".mob"]
         },
         {
           "id": 2,
@@ -285,11 +233,7 @@
           "id": 3,
           "titulo": "E-book + Impresso",
           "preco": 59.9,
-          "formatos": [
-            ".pdf",
-            ".pub",
-            ".mob"
-          ]
+          "formatos": [".pdf", ".pub", ".mob"]
         }
       ],
       "sobre": "Por que precisamos da Web Semântica? A Web de hoje não é suficiente? Estamos caminhando para uma Web com dados cada vez mais relacionados e abertos. A Web Semântica é uma extensão da nossa web atual, em que nós não vamos apenas ler e produzir conteúdo, mas usar as máquinas para relacionar e reutilizar essas informações da melhor maneira possível. Ela se baseia na ideia de que o conteúdo deve ter uma descrição digital, padronizada por vocabulários, que provê meios para as máquinas entenderem do que aquilo se trata, de modo que os computadores possam interpretar, gerar e distribuir conteúdo útil, de acordo com as necessidades dos usuários."
@@ -310,11 +254,7 @@
           "id": 1,
           "titulo": "E-book",
           "preco": 29.9,
-          "formatos": [
-            ".pdf",
-            ".pub",
-            ".mob"
-          ]
+          "formatos": [".pdf", ".pub", ".mob"]
         },
         {
           "id": 2,
@@ -325,11 +265,7 @@
           "id": 3,
           "titulo": "E-book + Impresso",
           "preco": 59.9,
-          "formatos": [
-            ".pdf",
-            ".pub",
-            ".mob"
-          ]
+          "formatos": [".pdf", ".pub", ".mob"]
         }
       ],
       "sobre": "Pensar em comunicação assíncrona entre microsserviços é um caminho interessante quando a aplicação demanda serviços que podem demorar para responder. Para evitar problemas de timeouts e retentativas, utilizam-se filas ou tópicos, aos quais um processo adiciona uma mensagem informando o processamento a ser feito e outro a recebe quando estiver disponível e executa. O Kafka é atualmente um dos principais sistemas para a implementação de processamento assíncrono. Além de disponibilizar os tópicos para a produção e consumo de mensagens, suas diversas funcionalidades facilitam a implementação de nossas aplicações, com a distribuição e o balanceamento de carga entre os consumidores e o processamento de fluxos de dados."
@@ -350,11 +286,7 @@
           "id": 1,
           "titulo": "E-book",
           "preco": 29.9,
-          "formatos": [
-            ".pdf",
-            ".pub",
-            ".mob"
-          ]
+          "formatos": [".pdf", ".pub", ".mob"]
         },
         {
           "id": 2,
@@ -365,11 +297,7 @@
           "id": 3,
           "titulo": "E-book + Impresso",
           "preco": 59.9,
-          "formatos": [
-            ".pdf",
-            ".pub",
-            ".mob"
-          ]
+          "formatos": [".pdf", ".pub", ".mob"]
         }
       ],
       "sobre": "Hoje em dia, é muito comum criar aplicações client-side para web e mobile que consomem dados de uma API (Application Programming Interface), que são sistemas back-end focados apenas no processamento e envio de dados, de forma centralizada. Isso permite que sejam desenvolvidas múltiplas aplicações clientes com interfaces específicas para usuários mobile, desktop ou web. Desde 2010, o Node.js provou ser uma excelente plataforma escalável na solução de diversos problemas, principalmente para construção de APIs RESTful."
@@ -390,11 +318,7 @@
           "id": 1,
           "titulo": "E-book",
           "preco": 29.9,
-          "formatos": [
-            ".pdf",
-            ".pub",
-            ".mob"
-          ]
+          "formatos": [".pdf", ".pub", ".mob"]
         },
         {
           "id": 2,
@@ -405,11 +329,7 @@
           "id": 3,
           "titulo": "E-book + Impresso",
           "preco": 59.9,
-          "formatos": [
-            ".pdf",
-            ".pub",
-            ".mob"
-          ]
+          "formatos": [".pdf", ".pub", ".mob"]
         }
       ],
       "sobre": "Desenvolvido e mantido pela Microsoft, o TypeScript é um pré-processador open source de códigos JavaScript que auxilia na escrita de códigos, desde os mais simples até os mais complexos, utilizando tipagem de dados e os princípios da Orientação a Objetos para o desenvolvimento de aplicações front-end, back-end e mobile."
